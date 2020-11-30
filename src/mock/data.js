@@ -18,10 +18,14 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: 'I am a passionate fullstack web developer.I enjoy building projects that are innovative and change the lives of others',
-  paragraphTwo: 'I am fluent in javaScript and some of its framework such as Angular,React,Jquery in Python and some of its frameworks such as django and flask and ofcourse HTML5 CSS3 and bootstrap4',
-  paragraphThree: 'My hobbies include riding bicycles,road trips with friends and family,watching movies and swimming',
-  resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
+  paragraphOne:
+    'I am a passionate and curious  fullstack web developer.I enjoy building projects that are innovative and change the lives of others',
+  paragraphTwo:
+    'I am fluent in javaScript and some of its framework such as Angular,React,Jquery in Python and some of its frameworks such as django and flask and ofcourse HTML5 CSS3 and bootstrap4',
+  paragraphThree:
+    'My hobbies include riding bicycles,road trips with friends and family,watching movies and swimming',
+  resume:
+    'https://docs.google.com/document/d/1_uNRQuoA6GZsXl7aDAX1SBrLFbxlx8x6iQpmy_3mBPA/edit?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
